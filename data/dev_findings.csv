@@ -1,0 +1,4 @@
+repo,path,line,api,kind,description,verdict,file_sha256
+RichmondAlake/memorizz,src/memorizz/finetune/formats.py,157,from_pretrained,code_template_string,Training script generated from a format-string template, intended to be written out and run,missed_by_pincheck,88bcf4c17bf31ca905072b309f5d41e75747830c36bcbfc998dc25e9047dec6a
+eole-nlp/eole,recipes/runpod/launch.py,281,snapshot_download,python_-c_script_string,Script passed to `python -c` as a string literal; executed in a subprocess (revision is set from sys.argv),missed_by_pincheck,64156127f9b4000e1c34806cf53ff7d5effa35cea73139f845c37595edf87d26
+flipz357/S3BERT,src/custom_losses.py,46,SentenceTransformer,docstring_example,"Usage example inside a docstring; never executed (correctly ignored by PinCheck, matched by the baseline)",baseline_false_site,7c36696df07f2b38cc068093631e322f6f293046d0b5cb9516591dd7d66b58f0
