@@ -1,0 +1,679 @@
+repo,path,line,api,cause,verdict,manually_inspected
+PRITHIVSAKTHIUR/FireRed-Image-Edit-1.0-Fast,app.py,41,from_pretrained,ID: multi-line literal,pincheck_correct,0
+PRITHIVSAKTHIUR/FireRed-Image-Edit-1.0-Fast,app.py,39,from_pretrained,ID: multi-line literal,pincheck_correct,1
+fashn-AI/fashn-vton-1.5,scripts/download_weights.py,23,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+ThilinaRajapakse/simpletransformers,simpletransformers/retrieval/retrieval_model.py,400,from_pretrained,ID: multi-line literal,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/demo_textdiffuser2_inpainting_full.py,55,from_pretrained,ID: multi-line literal,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/demo_textdiffuser2_inpainting_full.py,37,from_pretrained,ID: multi-line literal,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/demo_textdiffuser2_inpainting_full.py,34,from_pretrained,ID: multi-line literal,pincheck_correct,1
+microsoft/unilm,textdiffuser-2/demo_textdiffuser2_t2i_full.py,75,from_pretrained,ID: multi-line literal,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/demo_textdiffuser2_t2i_full.py,54,from_pretrained,ID: multi-line literal,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/demo_textdiffuser2_t2i_full.py,57,from_pretrained,ID: multi-line literal,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/predict.py,76,from_pretrained,ID: multi-line literal,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/predict.py,107,from_pretrained,ID: multi-line literal,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/predict.py,117,from_pretrained,ID: multi-line literal,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/predict.py,125,from_pretrained,ID: multi-line literal,pincheck_correct,1
+microsoft/unilm,textdiffuser-2/predict.py,67,from_pretrained,ID: multi-line literal,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/predict.py,97,from_pretrained,ID: multi-line literal,pincheck_correct,0
+stefan-it/turkish-bert,experiments/offenseval2020_tr_dataset.py,23,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/common.py,303,from_pretrained,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/img2img_ip.py,368,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/img2img_ip.py,358,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/img2img_ip.py,294,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/img2img_ip.py,303,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/img2img_ip.py,349,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/img2img_ip.py,313,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/img2img_ip.py,420,from_pretrained,ID: multi-line literal,pincheck_correct,1
+Woolverine94/biniou,ressources/img2img_ip.py,321,from_pretrained,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/img2img_ip.py,341,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/img2img_ip.py,331,hf_hub_download,ID: multi-line literal,pincheck_correct,1
+Woolverine94/biniou,ressources/img2img_ip.py,286,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+Woolverine94/biniou,ressources/txt2img_sd.py,401,from_pretrained,ID: multi-line literal,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,4868,from_pretrained,ID: multi-line literal,pincheck_correct,0
+Dharm3438/Reddit-AI-Agent,src/combined_CLI.py,104,HuggingFaceEmbeddings,ID: multi-line literal,pincheck_correct,1
+Dharm3438/Reddit-AI-Agent,src/rag_prep.py,22,HuggingFaceEmbeddings,ID: multi-line literal,pincheck_correct,0
+syncable-dev/memtrace-public,benchmarks/contextbench-memtrace/evaluate_mixed.py,80,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+limix-ldm-ai/LimiX,examples/demo_classification.py,22,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+limix-ldm-ai/LimiX,examples/demo_missing_value_imputation.py,117,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+limix-ldm-ai/LimiX,examples/demo_regression.py,30,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+winstxnhdw/Wingman,scripts/download_model.py,10,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+PRITHIVSAKTHIUR/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load,app.py,40,from_pretrained,ID: multi-line literal,pincheck_correct,0
+PRITHIVSAKTHIUR/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load,app.py,38,from_pretrained,ID: multi-line literal,pincheck_correct,0
+Happy-Chen-CH/Educational_RAG_System,rag_qa/core/query_classifier.py,102,from_pretrained,ID: multi-line literal,pincheck_correct,0
+Happy-Chen-CH/Educational_RAG_System,rag_qa/core/query_classifier.py,157,from_pretrained,ID: multi-line literal,pincheck_correct,1
+Happy-Chen-CH/Educational_RAG_System,rag_qa/core/vector_store.py,105,CrossEncoder,ID: multi-line literal,pincheck_correct,0
+Happy-Chen-CH/Educational_RAG_System,rag_qa/edu_text_spliter/review.py,25,snapshot_download,ID: multi-line literal,pincheck_correct,0
+sunrainyg/RandOpt,baselines/tests/workers/test_fsdp_attn_implementation.py,264,from_pretrained,ID: multi-line literal,pincheck_correct,0
+sunrainyg/RandOpt,baselines/tests/workers/test_fsdp_attn_implementation.py,127,from_pretrained,ID: multi-line literal,pincheck_correct,0
+ashioyajotham/fingpt_trader,models/llm/fingpt.py,331,snapshot_download,ID: multi-line literal,pincheck_correct,0
+vtuber-plan/olah,tests/e2e_cache_live.py,464,hf_hub_download,ID: multi-line literal,pincheck_correct,0
+vtuber-plan/olah,tests/simple_test.py,87,snapshot_download,ID: multi-line literal,pincheck_correct,0
+vtuber-plan/olah,tests/simple_test.py,77,snapshot_download,ID: multi-line literal,pincheck_correct,1
+Genius-Society/dyber_genshin_ai_vits,BertVITS2/VITS.py,53,snapshot_download,ID: multi-line literal,pincheck_correct,0
+PRITHIVSAKTHIUR/FireRed-Image-Edit-1.0-Fast,qwenimage/pipeline_qwenimage_edit_plus.py,51,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/albert_model.py,32,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/albert_model.py,31,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/bert_model.py,27,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/bert_model.py,28,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/camembert_model.py,32,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/camembert_model.py,31,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/distilbert_model.py,29,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/distilbert_model.py,30,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/electra_model.py,32,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/electra_model.py,31,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/flaubert_model.py,29,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/flaubert_model.py,28,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/mmbt_model.py,32,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/roberta_model.py,35,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/roberta_model.py,34,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/xlm_model.py,32,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/xlm_model.py,31,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/xlnet_model.py,37,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/classification/transformer_models/xlnet_model.py,36,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/custom_models/large_representation_retrieval_model.py,63,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/custom_models/large_representation_retrieval_model.py,343,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/custom_models/large_representation_retrieval_model.py,438,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/custom_models/large_representation_retrieval_model.py,159,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/custom_models/large_representation_retrieval_model.py,439,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/custom_models/large_representation_retrieval_model.py,158,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/custom_models/large_representation_retrieval_model.py,342,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/custom_models/large_representation_retrieval_model.py,64,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+ThilinaRajapakse/simpletransformers,simpletransformers/custom_models/reranking_model.py,117,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+ThilinaRajapakse/simpletransformers,simpletransformers/custom_models/reranking_model.py,118,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/albert_model.py,32,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/albert_model.py,31,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/bert_model.py,27,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/bert_model.py,28,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/camembert_model.py,35,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/camembert_model.py,36,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/distilbert_model.py,29,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/distilbert_model.py,30,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/roberta_model.py,33,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/roberta_model.py,34,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/xlm_model.py,32,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/xlm_model.py,31,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/xlnet_model.py,37,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+ThilinaRajapakse/simpletransformers,simpletransformers/experimental/classification/transformer_models/xlnet_model.py,36,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusionnlg.py,328,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusionnlg.py,335,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusionnlg.py,327,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusionnlg.py,317,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusionnlg.py,334,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusionnlg.py,340,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusionnlg.py,341,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusionnlg.py,320,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusionnlg.py,321,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusionnlg.py,316,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusionnlg.py,328,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusionnlg.py,335,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusionnlg.py,327,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusionnlg.py,317,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusionnlg.py,334,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusionnlg.py,340,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusionnlg.py,341,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusionnlg.py,320,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusionnlg.py,321,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusionnlg.py,316,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,layoutreader/s2s_ft/modeling.py,549,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,layoutreader/s2s_ft/modeling.py,550,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,layoutreader/s2s_ft/modeling.py,464,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,layoutreader/s2s_ft/modeling.py,465,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+microsoft/unilm,layoutreader/s2s_ft/modeling_decoding.py,801,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+microsoft/unilm,s2s-ft/s2s_ft/modeling.py,795,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+microsoft/unilm,s2s-ft/s2s_ft/modeling.py,429,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,s2s-ft/s2s_ft/modeling.py,796,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,s2s-ft/s2s_ft/modeling.py,430,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,s2s-ft/s2s_ft/modeling_decoding.py,740,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+microsoft/unilm,textdiffuser/assets/files/modeling_utils.py,244,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+microsoft/unilm,unilm-v1/src/pytorch_pretrained_bert/modeling.py,638,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+microsoft/unilm,unilm-v1/src/pytorch_pretrained_bert/tokenization.py,97,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+quic/efficient-transformers,QEfficient/base/modeling_qeff.py,545,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+quic/efficient-transformers,QEfficient/base/modeling_qeff.py,669,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+quic/efficient-transformers,QEfficient/generation/text_generation_inference.py,345,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+quic/efficient-transformers,examples/embeddings/qwen3vl/qwen3_vl_embedding.py,11,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+quic/efficient-transformers,examples/reranker/qwen3vl/qwen3_vl_reranker.py,11,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+quic/efficient-transformers,scripts/ci_report/generate_ci_report.py,10,pipeline,RX-only: inside string literal,baseline_false_site,0
+dfrostar/neuralmind,neuralmind/onnx_embedder.py,8,pipeline,RX-only: inside string literal,baseline_false_site,1
+dfrostar/neuralmind,tests/test_secret_scan.py,981,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+PRITHIVSAKTHIUR/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load,qwenimage/pipeline_qwenimage_edit_plus.py,51,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+turtlesoupy/this-word-does-not-exist,title_maker_pro/custom_modeling_utils.py,159,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+turtlesoupy/this-word-does-not-exist,title_maker_pro/custom_modeling_utils.py,130,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+turtlesoupy/this-word-does-not-exist,title_maker_pro/custom_modeling_utils.py,144,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+turtlesoupy/this-word-does-not-exist,title_maker_pro/custom_modeling_utils.py,158,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+turtlesoupy/this-word-does-not-exist,title_maker_pro/custom_modeling_utils.py,151,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+turtlesoupy/this-word-does-not-exist,title_maker_pro/custom_modeling_utils.py,135,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+turtlesoupy/this-word-does-not-exist,title_maker_pro/custom_modeling_utils.py,152,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+turtlesoupy/this-word-does-not-exist,title_maker_pro/custom_modeling_utils.py,136,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+turtlesoupy/this-word-does-not-exist,title_maker_pro/custom_modeling_utils.py,131,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+turtlesoupy/this-word-does-not-exist,title_maker_pro/custom_modeling_utils.py,143,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/pipeline.py,11,pipeline,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/pipeline.py,15,pipeline,RX-only: inside string literal,baseline_false_site,1
+DataScienceUIBK/Rankify,rankify/pipeline.py,383,pipeline,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/pipeline.py,391,pipeline,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/pipeline.py,47,pipeline,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/pipeline.py,387,pipeline,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/incontext_reranker/custom_modeling_llama.py,1205,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/incontext_reranker/custom_modeling_llama.py,1206,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/incontext_reranker/custom_modeling_mistral.py,1037,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/incontext_reranker/custom_modeling_mistral.py,1038,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/rank_llm/rerank/listwise/lit5/modeling_t5.py,1529,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/rank_llm/rerank/listwise/lit5/modeling_t5.py,2003,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/rank_llm/rerank/listwise/lit5/modeling_t5.py,1735,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/rank_llm/rerank/listwise/lit5/modeling_t5.py,2004,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/rank_llm/rerank/listwise/lit5/modeling_t5.py,1528,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/rank_llm/rerank/listwise/lit5/modeling_t5.py,1734,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/rank_llm/rerank/listwise/lit5/modeling_t5.py,239,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+DataScienceUIBK/Rankify,rankify/utils/models/rank_llm/rerank/listwise/lit5/modeling_t5.py,223,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+DataScienceUIBK/Rankify,rankify/utils/retrievers/colbert/colbert/modeling/base_colbert.py,97,from_pretrained,RX-only: inside string literal,baseline_false_site,1
+nokia-applied-research/AnyJev,anyjev/tacit.py,6,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+nokia-applied-research/AnyJev,anyjev/tacit.py,7,from_pretrained,RX-only: inside string literal,baseline_false_site,0
+Rizzo-AI-Academy/rizzo-pii,create_mock_model.py,46,from_pretrained,ID: constant propagation,pincheck_correct,0
+Rizzo-AI-Academy/rizzo-pii,create_mock_model.py,49,from_pretrained,ID: constant propagation,pincheck_correct,0
+Rizzo-AI-Academy/rizzo-pii,src/training/train_pii.py,356,from_pretrained,ID: constant propagation,pincheck_correct,0
+Rizzo-AI-Academy/rizzo-pii,src/training/train_pii.py,412,from_pretrained,ID: constant propagation,pincheck_correct,0
+fashn-AI/fashn-vton-1.5,scripts/download_weights.py,42,hf_hub_download,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,extensions/udapdr/scripts/dsp_utilities/evaluate_reranker.py,51,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,extensions/udapdr/scripts/dsp_utilities/evaluate_reranker.py,97,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,extensions/udapdr/scripts/dsp_utilities/train_reranker.py,60,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,extensions/udapdr/scripts/dsp_utilities/train_reranker.py,51,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,extensions/udapdr/scripts/dsp_utilities/train_reranker.py,54,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,extensions/udapdr/scripts/dsp_utilities/train_reranker.py,100,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,extensions/udapdr/scripts/dsp_utilities/train_reranker.py,57,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,primeqa/mitqa/processors/preprocessors/preprocess_raw_data.py,29,SentenceTransformer,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,tests/primeqa/mrc/models/test_fid_task_model.py,46,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,tests/primeqa/mrc/models/test_fid_task_model.py,14,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,tests/primeqa/mrc/models/test_fid_task_model.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,tests/primeqa/mrc/models/test_fid_task_model.py,15,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,tests/primeqa/mrc/trainers/test_mrc_seq2seq.py,137,from_pretrained,ID: constant propagation,pincheck_correct,0
+primeqa/primeqa,tests/primeqa/mrc/trainers/test_mrc_seq2seq.py,138,from_pretrained,ID: constant propagation,pincheck_correct,0
+ScalaConsultants/Aspect-Based-Sentiment-Analysis,tests/absa/test_alignment.py,37,from_pretrained,ID: constant propagation,pincheck_correct,0
+ScalaConsultants/Aspect-Based-Sentiment-Analysis,tests/absa/test_pipeline.py,27,from_pretrained,ID: constant propagation,pincheck_correct,0
+ScalaConsultants/Aspect-Based-Sentiment-Analysis,tests/absa/test_pipeline.py,29,from_pretrained,ID: constant propagation,pincheck_correct,0
+ScalaConsultants/Aspect-Based-Sentiment-Analysis,tests/absa/test_pipeline.py,30,from_pretrained,ID: constant propagation,pincheck_correct,0
+ScalaConsultants/Aspect-Based-Sentiment-Analysis,tests/training/test_sanity_check.py,37,from_pretrained,ID: constant propagation,pincheck_correct,0
+ScalaConsultants/Aspect-Based-Sentiment-Analysis,tests/training/test_sanity_check.py,38,from_pretrained,ID: constant propagation,pincheck_correct,0
+ScalaConsultants/Aspect-Based-Sentiment-Analysis,tests/training/test_sanity_check.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+microsoft/unilm,PFPO/data/qwen25math/model_utils.py,182,from_pretrained,ID: constant propagation,pincheck_correct,0
+microsoft/unilm,PFPO/data/qwen25math/model_utils.py,190,from_pretrained,ID: constant propagation,pincheck_correct,0
+microsoft/unilm,markuplm/examples/fine_tuning/run_websrc/draft.py,38,from_pretrained,ID: constant propagation,pincheck_correct,0
+microsoft/unilm,markuplm/examples/fine_tuning/run_websrc/draft.py,39,from_pretrained,ID: constant propagation,pincheck_correct,0
+microsoft/unilm,markuplm/examples/fine_tuning/run_websrc/draft.py,34,from_pretrained,ID: constant propagation,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/demo_textdiffuser2_t2i_full.py,49,from_pretrained,ID: constant propagation,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/demo_textdiffuser2_t2i_full.py,84,from_pretrained,ID: constant propagation,pincheck_correct,1
+microsoft/unilm,textdiffuser-2/demo_textdiffuser2_t2i_full.py,48,from_pretrained,ID: constant propagation,pincheck_correct,0
+Woolverine94/biniou,ressources/common.py,295,from_pretrained,ID: constant propagation,pincheck_correct,0
+Woolverine94/biniou,ressources/common.py,274,from_pretrained,ID: constant propagation,pincheck_correct,0
+Woolverine94/biniou,ressources/common.py,281,from_pretrained,ID: constant propagation,pincheck_correct,0
+Woolverine94/biniou,ressources/txt2img_paa.py,99,from_pretrained,ID: constant propagation,pincheck_correct,0
+Woolverine94/biniou,ressources/txt2img_paa.py,222,from_pretrained,ID: constant propagation,pincheck_correct,0
+Woolverine94/biniou,ressources/txt2img_paa.py,256,from_pretrained,ID: constant propagation,pincheck_correct,0
+Woolverine94/biniou,ressources/txt2img_paa.py,182,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/glm4_moe_disagg_mode_with_chunking.py,21,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/glm4_moe_disagg_mode_with_chunking.py,22,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/glm4_moe_disagg_mode_with_chunking.py,28,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/gpt_oss_disagg_mode_with_chunking.py,33,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/gpt_oss_disagg_mode_with_chunking.py,35,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/gpt_oss_disagg_mode_with_chunking.py,42,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/qwen3moe_disagg_mode_with_chunking.py,22,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/qwen3moe_disagg_mode_with_chunking.py,23,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/qwen3moe_disagg_mode_with_chunking.py,29,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/qwen3moe_layerwise.py,27,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/qwen3moe_layerwise.py,30,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/disagg_serving/qwen3moe_layerwise.py,26,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma3/gemma3_example.py,25,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma3/gemma3_example.py,34,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma3/gemma3_example.py,19,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma3/gemma3_example.py,26,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma4_cb.py,104,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma4_cb.py,111,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma4_cb.py,98,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma4_diss.py,27,from_pretrained,ID: constant propagation,pincheck_correct,1
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma4_diss.py,39,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma4_diss.py,38,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma4_diss.py,33,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma4_example.py,84,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma4_example.py,79,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma4_example.py,93,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma_blocked_disagg.py,39,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma_blocked_disagg.py,44,from_pretrained,ID: constant propagation,pincheck_correct,1
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma_blocked_disagg.py,33,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/gemma_vision/gemma4/gemma_blocked_disagg.py,45,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/granite_vision/continuous_batching.py,25,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/granite_vision/continuous_batching.py,15,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/granite_vision/continuous_batching.py,18,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/granite_vision/continuous_batching.py,26,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/granite_vision/granite_example.py,38,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/granite_vision/granite_example.py,31,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/internvl/continuous_batching.py,21,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/internvl/continuous_batching.py,28,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/internvl/continuous_batching.py,34,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/internvl/continuous_batching.py,57,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/internvl/continuous_batching.py,14,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/internvl/internvl_example.py,57,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/internvl/internvl_example.py,39,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/kimi_k2/export_kimik2.py,32,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/kimi_k2/export_kimik2.py,35,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/continuous_batching.py,35,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/continuous_batching.py,29,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/continuous_batching.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/continuous_batching.py,30,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/multi_image.py,23,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/multi_image.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/multi_image.py,20,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/multi_image.py,15,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/single_image.py,32,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/single_image.py,25,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/single_image.py,35,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/llama4/single_image.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/mistral_vision/mistral3_example.py,39,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/mistral_vision/mistral3_example.py,29,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/mistral_vision/mistral3_example.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/molmo/molmo_example.py,25,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/molmo/molmo_example.py,17,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/molmo/molmo_example.py,23,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/molmo/molmo_example.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/basic_inference.py,25,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/basic_inference.py,21,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/basic_inference.py,18,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/basic_inference.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/continuous_batching.py,25,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/continuous_batching.py,15,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/continuous_batching.py,18,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/continuous_batching.py,26,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/multi_specialization_inference.py,25,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/multi_specialization_inference.py,21,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/multi_specialization_inference.py,18,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen2_5_vl/multi_specialization_inference.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/multi_specialization_inference.py,27,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/multi_specialization_inference.py,28,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/multi_specialization_inference.py,17,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/multi_specialization_inference.py,23,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/qwen3_5.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/qwen3_5.py,17,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/qwen3_5.py,35,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/qwen3_5.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/qwen3_5_continous_batching.py,21,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/qwen3_5_continous_batching.py,28,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/qwen3_5_continous_batching.py,29,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5/qwen3_5_continous_batching.py,14,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/multi_specialization_inference.py,27,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/multi_specialization_inference.py,28,from_pretrained,ID: constant propagation,pincheck_correct,1
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/multi_specialization_inference.py,17,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/multi_specialization_inference.py,23,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_122b_epd_disagg.py,56,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_122b_epd_disagg.py,94,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_122b_epd_disagg.py,95,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_122b_epd_disagg.py,91,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_disagg_mode.py,49,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_disagg_mode.py,50,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_disagg_mode.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_disagg_mode.py,46,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe.py,17,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe.py,35,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_continous_batching.py,21,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_continous_batching.py,28,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_continous_batching.py,29,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_continous_batching.py,14,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_decode.py,33,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_decode.py,30,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_decode.py,31,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_decode.py,26,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_layerwise.py,92,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_layerwise.py,89,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_layerwise.py,57,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_moe_layerwise.py,93,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/multi_specialization_inference.py,27,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/multi_specialization_inference.py,17,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/multi_specialization_inference.py,28,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/multi_specialization_inference.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/qwen3_vl_moe.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/qwen3_vl_moe.py,17,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/qwen3_vl_moe.py,35,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/qwen3_vl_moe.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/qwen3_vl_moe_continous_batching.py,21,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/qwen3_vl_moe_continous_batching.py,28,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/qwen3_vl_moe_continous_batching.py,29,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_vl_moe/qwen3_vl_moe_continous_batching.py,14,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/multi_specialization_inference.py,27,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/multi_specialization_inference.py,28,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/multi_specialization_inference.py,18,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/multi_specialization_inference.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl.py,33,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl.py,17,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl.py,23,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl.py,34,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_blocked.py,33,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_blocked.py,18,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_blocked.py,40,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_blocked.py,41,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_blocked_paged_attention.py,42,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_blocked_paged_attention.py,17,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_blocked_paged_attention.py,34,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_blocked_paged_attention.py,41,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_continous_batching.py,27,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_continous_batching.py,19,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_continous_batching.py,14,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3vl/qwen3_vl_continous_batching.py,26,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/gemma3.py,39,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/gemma3.py,21,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/gemma3.py,16,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/gemma3.py,20,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/gpt_oss.py,28,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/gpt_oss.py,34,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/gpt_oss_disagg_mode_with_chunking.py,32,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/gpt_oss_disagg_mode_with_chunking.py,65,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/gpt_oss_disagg_mode_with_chunking.py,37,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/gpt_oss_disagg_mode_with_chunking.py,33,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/granite_vision.py,40,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/granite_vision.py,33,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/internvl.py,212,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/internvl.py,188,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4.py,45,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4.py,46,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4.py,15,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4_cb.py,40,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4_cb.py,19,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4_cb.py,14,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4_cb.py,20,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4_cb.py,68,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4_multi_image.py,45,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4_multi_image.py,46,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4_multi_image.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/llama4_multi_image.py,15,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/mistral3.py,32,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/mistral3.py,39,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/mistral3.py,45,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/molmo.py,17,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/molmo.py,45,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/molmo.py,46,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/molmo.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen2_5_vl.py,39,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen2_5_vl.py,21,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen2_5_vl.py,49,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen2_5_vl.py,48,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen2_5_vl_cb.py,18,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen2_5_vl_cb.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen2_5_vl_cb.py,46,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen2_5_vl_cb.py,47,from_pretrained,ID: constant propagation,pincheck_correct,1
+quic/efficient-transformers,examples/performance/compute_context_length/qwen3moe.py,54,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen3moe.py,34,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen3moe_example/ccl_qwen3moe_inference.py,33,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/performance/compute_context_length/qwen3moe_example/ccl_qwen3moe_inference.py,53,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/sequence_classification/basic_inference.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/sequence_classification/basic_inference.py,25,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/text_generation/run_kimik2.py,36,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,examples/text_generation/run_kimik2.py,33,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,scripts/debug/audio_model.py,32,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,scripts/debug/audio_model.py,55,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,scripts/debug/audio_model.py,35,from_pretrained,ID: constant propagation,pincheck_correct,1
+quic/efficient-transformers,scripts/debug/audio_model.py,58,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,scripts/debug/embedding_model.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,scripts/debug/embedding_model.py,20,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,scripts/debug/text_model.py,24,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,scripts/debug/text_model.py,19,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,5103,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1487,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,5129,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1214,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1112,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,4163,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,5076,from_pretrained,ID: constant propagation,pincheck_correct,1
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,2105,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,454,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,2076,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1814,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1486,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1213,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,2047,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1578,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1855,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1197,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,4305,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,4287,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,2062,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1833,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1111,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1155,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,2090,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,2077,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1137,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,448,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1192,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,2046,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1852,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1073,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1557,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1533,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,2061,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,4266,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,4288,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1174,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,5122,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1451,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,4248,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1156,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1189,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1255,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1312,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,2089,from_pretrained,ID: constant propagation,pincheck_correct,1
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,2102,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1173,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1239,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,5207,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,1080,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,4168,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/utils/load_kimi_utils.py,237,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/utils/load_kimi_utils.py,238,from_pretrained,ID: constant propagation,pincheck_correct,0
+quic/efficient-transformers,tests/weight_free/test_disaggregated.py,96,from_pretrained,ID: constant propagation,pincheck_correct,0
+dfrostar/neuralmind,neuralmind/bge_embedder.py,101,SentenceTransformer,ID: constant propagation,pincheck_correct,0
+sunrainyg/RandOpt,baselines/tests/models/test_tiled_mlp_accuracy.py,38,from_pretrained,ID: constant propagation,pincheck_correct,0
+sunrainyg/RandOpt,baselines/tests/models/test_tiled_mlp_accuracy.py,41,from_pretrained,ID: constant propagation,pincheck_correct,0
+ashioyajotham/fingpt_trader,train_fingpt_lora.py,37,from_pretrained,ID: constant propagation,pincheck_correct,0
+ashioyajotham/fingpt_trader,train_fingpt_lora.py,34,from_pretrained,ID: constant propagation,pincheck_correct,0
+Hamza5/file-brain,apps/file-brain/file_brain/services/model_downloader.py,189,hf_hub_download,ID: constant propagation,pincheck_correct,0
+alephpi/Texo,scripts/python/hf_hub.py,38,snapshot_download,ID: constant propagation,pincheck_correct,0
+alephpi/Texo,scripts/python/hf_hub.py,43,snapshot_download,ID: constant propagation,pincheck_correct,0
+georgian-io/LLM-Finetuning-Toolkit,llmtune/qa/qa_metrics.py,95,from_pretrained,ID: constant propagation,pincheck_correct,0
+georgian-io/LLM-Finetuning-Toolkit,llmtune/qa/qa_metrics.py,94,from_pretrained,ID: constant propagation,pincheck_correct,0
+georgian-io/LLM-Finetuning-Toolkit,llmtune/qa/qa_tests.py,85,from_pretrained,ID: constant propagation,pincheck_correct,0
+georgian-io/LLM-Finetuning-Toolkit,llmtune/qa/qa_tests.py,86,from_pretrained,ID: constant propagation,pincheck_correct,0
+Rizzo-AI-Academy/rizzo-pii,src/training/train_pii.py,731,from_pretrained,RX-only: other,baseline_false_site,1
+quic/efficient-transformers,QEfficient/base/common.py,35,from_pretrained,RX-only: other,baseline_false_site,1
+yuzhimanhua/MICoL,encoder.py,46,CrossEncoder,RX-only: other,baseline_false_site,1
+primeqa/primeqa,extensions/ir_benchmarking/colbert/modeling/hf_colbert.py,25,from_pretrained,RX-FP: function definition,baseline_false_site,0
+primeqa/primeqa,primeqa/ir/dense/colbert_top/colbert/modeling/hf_colbert.py,37,from_pretrained,RX-FP: function definition,baseline_false_site,0
+primeqa/primeqa,primeqa/ir/dense/colbert_top/colbert/modeling/hf_colbert_roberta.py,34,from_pretrained,RX-FP: function definition,baseline_false_site,0
+primeqa/primeqa,primeqa/ir/dense/colbert_top/colbert/modeling/hf_colbert_xlmr.py,44,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,PFPO/models/fs_tp_mixin.py,13,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,PFPO/models/megatron_tp_mixin.py,14,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,PFPO/models/mixin.py,32,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/GAD/fairseq/hub_utils.py,23,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/GAD/fairseq/models/bart/model.py,117,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/GAD/fairseq/models/fairseq_model.py,227,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/GAD/fairseq/models/roberta/model.py,240,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/GAD/fairseq/models/roberta/model_camembert.py,31,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/GAD/fairseq/models/roberta/model_gottbert.py,25,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/GAD/fairseq/models/roberta/model_xlmr.py,25,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/IAD/fairseq/fairseq/hub_utils.py,23,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/IAD/fairseq/fairseq/models/bart/model.py,117,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/IAD/fairseq/fairseq/models/fairseq_model.py,227,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/IAD/fairseq/fairseq/models/roberta/model.py,234,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/IAD/fairseq/fairseq/models/roberta/model_camembert.py,31,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/IAD/fairseq/fairseq/models/roberta/model_gottbert.py,25,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,decoding/IAD/fairseq/fairseq/models/roberta/model_xlmr.py,25,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,edgelm/examples/MMPT/mmpt/models/mmfusion.py,35,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,edgelm/fairseq/hub_utils.py,23,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,edgelm/fairseq/models/bart/model.py,117,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,edgelm/fairseq/models/fairseq_model.py,234,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,edgelm/fairseq/models/roberta/model.py,268,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,edgelm/fairseq/models/roberta/model_camembert.py,31,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,edgelm/fairseq/models/roberta/model_gottbert.py,25,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,edgelm/fairseq/models/roberta/model_xlmr.py,27,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,infoxlm/fairseq/fairseq/hub_utils.py,18,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,infoxlm/fairseq/fairseq/models/bart/model.py,88,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,infoxlm/fairseq/fairseq/models/fairseq_model.py,146,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,infoxlm/fairseq/fairseq/models/roberta/model.py,230,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,infoxlm/fairseq/fairseq/models/roberta/model.py,135,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,infoxlm/fairseq/fairseq/models/roberta/model.py,207,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,infoxlm/src-infoxlm/infoxlm/models/infoxlm.py,122,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,infoxlm/src-infoxlm/infoxlm/models/roberta.py,48,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/examples/MMPT/mmpt/models/mmfusion.py,35,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/hub_utils.py,23,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/models/bart/model.py,117,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/models/fairseq_model.py,237,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/models/roberta/model.py,359,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/models/roberta/model_camembert.py,31,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/models/roberta/model_gottbert.py,24,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/models/roberta/model_xlmr.py,27,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/models/speech_to_text/s2t_transformer.py,100,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/models/speech_to_text/xm_transformer.py,463,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/models/text_to_speech/fastspeech2.py,345,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,kosmos-2/fairseq/fairseq/models/text_to_speech/tts_transformer.py,339,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,layoutreader/s2s_ft/modeling.py,94,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,layoutreader/s2s_ft/modeling_decoding.py,822,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,markuplm/markuplmft/models/markuplm/modeling_markuplm.py,708,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,s2s-ft/s2s_ft/modeling.py,79,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,s2s-ft/s2s_ft/modeling_decoding.py,761,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,simlm/src/models/cross_encoder_model.py,75,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,simlm/src/models/cross_encoder_model.py,94,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,simlm/src/models/rlm.py,123,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,textdiffuser/assets/files/modeling_utils.py,320,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,unilm-v1/src/pytorch_pretrained_bert/modeling.py,655,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,unilm-v1/src/pytorch_pretrained_bert/tokenization.py,135,from_pretrained,RX-FP: function definition,baseline_false_site,0
+microsoft/unilm,xtune/src/pequod/text/tokenization_sentencepiece.py,66,from_pretrained,RX-FP: function definition,baseline_false_site,0
+quic/efficient-transformers,QEfficient/base/common.py,39,from_pretrained,RX-FP: function definition,baseline_false_site,0
+quic/efficient-transformers,tests/utils/test_logger.py,154,from_pretrained,RX-FP: function definition,baseline_false_site,0
+quic/efficient-transformers,tests/utils/test_logger.py,149,from_pretrained,RX-FP: function definition,baseline_false_site,0
+quic/efficient-transformers,tests/utils/test_logger.py,107,from_pretrained,RX-FP: function definition,baseline_false_site,0
+sunrainyg/RandOpt,baselines/tests/special_e2e/envs/digit_completion/tokenizer.py,151,from_pretrained,RX-FP: function definition,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/pipeline.py,353,pipeline,RX-FP: function definition,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/models/llm2vec.py,81,from_pretrained,RX-FP: function definition,baseline_false_site,0
+DataScienceUIBK/Rankify,rankify/utils/retrievers/colbert/colbert/modeling/hf_colbert.py,123,from_pretrained,RX-FP: function definition,baseline_false_site,0
+nokia-applied-research/AnyJev,anyjev/tacit.py,314,from_pretrained,RX-FP: function definition,baseline_false_site,0
+nokia-applied-research/AnyJev,tests/test_hf_loading.py,55,from_pretrained,RX-FP: function definition,baseline_false_site,0
+nokia-applied-research/AnyJev,tests/test_hf_loading.py,48,from_pretrained,RX-FP: function definition,baseline_false_site,0
+nokia-applied-research/AnyJev,tests/test_sglang.py,120,from_pretrained,RX-FP: function definition,baseline_false_site,0
+nokia-applied-research/AnyJev,tests/test_truncate_and_vllm.py,105,from_pretrained,RX-FP: function definition,baseline_false_site,0
+primeqa/primeqa,primeqa/tableqa/tapex/processors/preprocessors/wikisql.py,24,from_pretrained,REV: revision on another line,pincheck_correct,1
+primeqa/primeqa,primeqa/tableqa/tapex/processors/preprocessors/wikitablequestions.py,22,from_pretrained,REV: revision on another line,pincheck_correct,0
+primeqa/primeqa,primeqa/tableqa/tapex/run_tapex.py,167,from_pretrained,REV: revision on another line,pincheck_correct,0
+primeqa/primeqa,primeqa/tableqa/tapex/run_tapex.py,157,from_pretrained,REV: revision on another line,pincheck_correct,0
+primeqa/primeqa,primeqa/tableqa/tapex/run_tapex.py,143,from_pretrained,REV: revision on another line,pincheck_correct,0
+primeqa/primeqa,primeqa/tableqa/tapex/tapex_component.py,170,from_pretrained,REV: revision on another line,pincheck_correct,0
+primeqa/primeqa,primeqa/tableqa/tapex/tapex_component.py,146,from_pretrained,REV: revision on another line,pincheck_correct,0
+primeqa/primeqa,primeqa/tableqa/tapex/tapex_component.py,160,from_pretrained,REV: revision on another line,pincheck_correct,0
+primeqa/primeqa,primeqa/text_classification/run_nway_classifier.py,455,from_pretrained,REV: revision on another line,pincheck_correct,0
+primeqa/primeqa,primeqa/text_classification/run_nway_classifier.py,440,from_pretrained,REV: revision on another line,pincheck_correct,0
+primeqa/primeqa,primeqa/text_classification/run_nway_classifier.py,448,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmft/examples/run_funsd.py,128,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmft/examples/run_funsd.py,136,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmft/examples/run_funsd.py,143,from_pretrained,REV: revision on another line,pincheck_correct,1
+microsoft/unilm,layoutlmft/examples/run_xfun_re.py,139,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmft/examples/run_xfun_re.py,132,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmft/examples/run_xfun_re.py,124,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmft/examples/run_xfun_ser.py,141,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmft/examples/run_xfun_ser.py,126,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmft/examples/run_xfun_ser.py,134,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmv3/examples/run_funsd_cord.py,263,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmv3/examples/run_funsd_cord.py,254,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmv3/examples/run_funsd_cord.py,272,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmv3/examples/run_xfund.py,209,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmv3/examples/run_xfund.py,226,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,layoutlmv3/examples/run_xfund.py,200,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_angle.py,527,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_angle.py,1127,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_angle.py,492,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_angle.py,514,from_pretrained,REV: revision on another line,pincheck_correct,1
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_angle.py,538,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_angle.py,519,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_angle.py,524,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_quadrilateral.py,513,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_quadrilateral.py,1097,from_pretrained,REV: revision on another line,pincheck_correct,1
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_quadrilateral.py,508,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_quadrilateral.py,518,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_quadrilateral.py,521,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_quadrilateral.py,532,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/extensions/train_textdiffuser2_t2i_full_quadrilateral.py,491,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_inpainting_full.py,556,from_pretrained,REV: revision on another line,pincheck_correct,1
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_inpainting_full.py,559,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_inpainting_full.py,551,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_inpainting_full.py,1134,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_inpainting_full.py,534,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_full.py,513,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_full.py,1106,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_full.py,508,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_full.py,518,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_full.py,521,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_full.py,532,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_full.py,491,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_lora.py,539,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_lora.py,551,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_lora.py,544,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_lora.py,1158,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser-2/train_textdiffuser2_t2i_lora.py,523,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/assets/files/modeling_utils.py,786,hf_hub_download,REV: revision on another line,pincheck_correct,1
+microsoft/unilm,textdiffuser/assets/files/modeling_utils.py,811,hf_hub_download,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/evaluate.py,367,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/evaluate.py,360,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/evaluate.py,363,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/gradio_app.py,357,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/gradio_app.py,364,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/gradio_app.py,360,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/inference.py,356,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/inference.py,360,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/inference.py,353,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/train.py,1082,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/train.py,497,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/train.py,500,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/train.py,506,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,textdiffuser/train.py,503,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,xdoc/fine_tuning/funsd/run_funsd.py,128,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,xdoc/fine_tuning/funsd/run_funsd.py,120,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,xdoc/fine_tuning/funsd/run_funsd.py,137,from_pretrained,REV: revision on another line,pincheck_correct,1
+microsoft/unilm,xdoc/fine_tuning/squad/run_squad.py,307,from_pretrained,REV: revision on another line,pincheck_correct,0
+microsoft/unilm,xdoc/fine_tuning/squad/run_squad.py,294,from_pretrained,REV: revision on another line,pincheck_correct,1
+microsoft/unilm,xdoc/fine_tuning/squad/run_squad.py,300,from_pretrained,REV: revision on another line,pincheck_correct,0
+Woolverine94/biniou,ressources/img2var.py,67,from_pretrained,REV: revision on another line,pincheck_correct,0
+quic/efficient-transformers,QEfficient/utils/_utils.py,211,snapshot_download,REV: revision on another line,pincheck_correct,0
+shamspias/laya-bangla,src/laya_bangla/cli.py,36,snapshot_download,REV: revision on another line,pincheck_correct,0
+shamspias/laya-bangla,src/laya_bangla/llm.py,195,from_pretrained,REV: revision on another line,pincheck_correct,0
+shamspias/laya-bangla,src/laya_bangla/prepare.py,91,hf_hub_download,REV: revision on another line,pincheck_correct,0
+nokia-applied-research/AnyJev,anyjev/backends/hf.py,25,from_pretrained,REV: revision on another line,pincheck_correct,0
+nokia-applied-research/AnyJev,anyjev/backends/hf.py,45,from_pretrained,REV: revision on another line,pincheck_correct,0
+DataScienceUIBK/Rankify,rankify/agent/agent.py,231,pipeline,RX-FP: pipeline object invocation,baseline_false_site,1
+DataScienceUIBK/Rankify,rankify/pipeline.py,426,pipeline,ID: none vs indirect,both_false_site,1
+DataScienceUIBK/Rankify,rankify/pipeline.py,416,pipeline,ID: none vs indirect,both_false_site,1
+DataScienceUIBK/Rankify,rankify/pipeline.py,407,pipeline,ID: none vs indirect,both_false_site,1
+microsoft/unilm,minilm/examples/run_xnli.py,649,from_pretrained,agreement,both_correct,1
+DataScienceUIBK/Rankify,rankify/models/tart_reranker.py,90,from_pretrained,agreement,both_correct,1
+sunrainyg/RandOpt,baselines/verl/trainer/main_es.py,138,from_pretrained,agreement,both_correct,1
+ThilinaRajapakse/simpletransformers,simpletransformers/t5/t5_model.py,148,from_pretrained,agreement,both_correct,1
+quic/efficient-transformers,QEfficient/utils/_utils.py,362,from_pretrained,agreement,both_correct,1
+DataScienceUIBK/Rankify,rankify/retrievers/diver_dense_retriever.py,160,SentenceTransformer,agreement,both_correct,1
+quic/efficient-transformers,tests/utils/load_kimi_utils.py,416,from_pretrained,agreement,both_correct,1
+DataScienceUIBK/Rankify,rankify/utils/retrievers/splade/models/transformer_rank.py,48,from_pretrained,agreement,both_correct,1
+DataScienceUIBK/Rankify,rankify/models/llm_layerwise_ranker.py,115,from_pretrained,agreement,both_correct,1
+primeqa/primeqa,tests/primeqa/mrc/processors/preprocessors/test_tydiqa_google_preprocessor.py,42,from_pretrained,agreement,both_correct,1
+DataScienceUIBK/Rankify,rankify/retrievers/diver_dense_retriever.py,152,SentenceTransformer,agreement,both_correct,1
+primeqa/primeqa,extensions/ir_benchmarking/colbert/modeling/hf_colbert.py,46,from_pretrained,agreement,both_correct,1
+quic/efficient-transformers,tests/unit_test/models/test_model_quickcheck.py,708,from_pretrained,agreement,both_correct,1
+microsoft/unilm,textdiffuser-2/extensions/inference_textdiffuser2_t2i_full_quadrilateral.py,396,from_pretrained,agreement,both_correct,1
+sunrainyg/RandOpt,baselines/verl/utils/tokenizer.py,61,from_pretrained,agreement,both_correct,1
+microsoft/unilm,markuplm/examples/fine_tuning/run_websrc/run.py,486,from_pretrained,agreement,both_correct,1
+microsoft/unilm,edgelm/fairseq/models/roberta/model_xlmr.py,37,from_pretrained,agreement,both_correct,1
+quic/efficient-transformers,tests/unit_test/utils/test_generation.py,117,from_pretrained,agreement,both_correct,1
+sunrainyg/RandOpt,baselines/verl/model_merger/base_model_merger.py,187,from_pretrained,agreement,both_correct,1
+sunrainyg/RandOpt,baselines/verl/utils/model.py,633,from_pretrained,agreement,both_correct,1
+quic/efficient-transformers,tests/weight_free/_helpers.py,137,from_pretrained,agreement,both_correct,1
+quic/efficient-transformers,examples/image_text_to_text/models/qwen3_5_moe/qwen3_5_disagg_mode_release.py,147,from_pretrained,agreement,both_correct,1
+ashioyajotham/fingpt_trader,models/llm/fingpt.py,175,from_pretrained,agreement,both_correct,1
+microsoft/unilm,PFPO/scripts/model_converts/llama_hf_mp_split.py,97,from_pretrained,agreement,both_correct,1
+microsoft/unilm,markuplm/examples/fine_tuning/run_swde/run.py,411,from_pretrained,agreement,both_correct,1
+nokia-applied-research/AnyJev,tests/test_truncate_and_vllm.py,39,from_pretrained,agreement,both_correct,1
+microsoft/unilm,PFPO/scripts/model_converts/pad_model_embedding.py,20,from_pretrained,agreement,both_correct,1
+sunrainyg/RandOpt,baselines/examples/sglang_multiturn/search_r1_like/local_dense_retriever/retrieval_server.py,45,from_pretrained,agreement,both_correct,1
+quic/efficient-transformers,examples/embeddings/text_embeddings.py,80,from_pretrained,agreement,both_correct,1
+primeqa/primeqa,extensions/udapdr/scripts/DSP_Multiple_Reranker.py,499,from_pretrained,agreement,both_correct,1
