@@ -1,0 +1,15 @@
+# Copy to .github/workflows/pincheck.yml in your project.
+name: pincheck
+on: [push, pull_request]
+jobs:
+  model-pinning:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install PinCheck
+        run: pip install "git+https://github.com/Aditya-Khetawat/floating-on-main.git"
+      - name: Fail on unpinned model loads
+        run: pincheck src/ --fail-on unpinned,remote-code,default-pipeline
