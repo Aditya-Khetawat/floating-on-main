@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use PinCheck or this dataset, please cite the paper."
+title: "PinCheck: detecting unpinned Hugging Face model dependencies"
+version: 1.0.0
+license: MIT
+authors:
+  - given-names: Aditya Vardhan
+    family-names: Khetawat
+  - given-names: Rishi
+    family-names: Sharma
+  - given-names: Samairaa
+    family-names: Arora
+  - given-names: Manish
+    family-names: Rai
+preferred-citation:
+  type: conference-paper
+  title: "Floating on Main: Detecting Unpinned Model Dependencies in MLOps"
+  authors:
+    - given-names: Aditya Vardhan
+      family-names: Khetawat
+    - given-names: Rishi
+      family-names: Sharma
+    - given-names: Samairaa
+      family-names: Arora
+    - given-names: Manish
+      family-names: Rai
+  conference:
+    name: "International Conference on Intelligent Networks and Data-driven Intelligent Applications (ICon INDIA 2026)"
+  year: 2026
