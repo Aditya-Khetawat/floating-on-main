@@ -102,8 +102,11 @@ python study/06_figures.py                      # Figs. 3 and 4
 | 4 | `04_evaluate_detectors.py` | evaluation files | `output/rq1_*.json`, Tables II-III |
 | 5 | `05_statistics.py` | `data/results.jsonl` | `output/summary.json` |
 | 6 | `06_figures.py` | `output/summary.json` | Figs. 3 and 4 |
+| 7 | `07_compare_collections.py` | both collections in `data/` | stability check in Section VI-A |
 
-Steps 5 and 6 reproduce every number in Section V exactly from the frozen data in `data/`.
+Steps 5 and 6 reproduce every number in Section V exactly from the frozen data in `data/`, and
+step 7 reproduces the stability check between the two collections (at most 0.2 percentage points on
+project-level pinning rates and 0.8 on practice signals).
 Steps 1-3 query GitHub live. Because repositories keep changing, re-running them gives a new
 snapshot rather than the paper's; step 3 reports how many evaluation files still match the
 hashes recorded at analysis time. The paper's snapshot was analyzed on 20 October 2026, and the
@@ -123,6 +126,8 @@ everything else, and the command-line tool, uses the corrected rule.
 | `candidates.json` | 1,150 candidate repositories from GitHub search (5 Oct 2026) |
 | `results.jsonl` | one line per analyzed repository (939): call sites, dependency declarations, CI, tests, Docker and lockfile signals |
 | `eval_samples.json` | development (seed 2026) and held-out (seed 7331) samples: repositories, file paths and SHA-256 hashes |
+| `results_2026-10-05.jsonl` | the first collection (5 Oct 2026) of the same repositories, used only by step 7; it was produced before the `pipeline` rule fix described above |
+| `dev_findings.csv` | development-sample cases discussed in the paper: the two loads PinCheck misses because they are code inside string literals, and a docstring example for contrast |
 | `adjudication_test.csv` | every disagreement between PinCheck and the baseline on the held-out sample, its cause and verdict, and whether it was inspected manually; plus the 30 inspected agreements |
 
 The evaluation source files are third-party code and are not redistributed; step 3 downloads them.
